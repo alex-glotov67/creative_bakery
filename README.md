@@ -5,9 +5,9 @@
 
 ## Description
 
--Technologies used: HMTL, SCSS, BEM
+-Technologies used: HTML, SCSS, BEM
 
--Fully responsive layout was made by using CSS Grid and Flexbox(mobile, tablet, laptop, high screens)
+-Fully responsive layout was made by using CSS Grid and Flex (mobile, tablet, laptop, high screens)
 
 ### Dependencies
 * Node v12.16.3 and higher
