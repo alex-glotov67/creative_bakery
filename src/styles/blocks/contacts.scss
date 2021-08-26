@@ -144,9 +144,13 @@
     margin-bottom: 20px;
     height: 30px;
     border: none;
-    border-bottom: 1px solid $color-chocolate;
-    opacity: 0.5;
+    border-bottom: 1px solid #412d2280;
     outline: none;
+
+    &::placeholder {
+      color: $color-chocolate;
+      opacity: 0.5;
+    }
 
     &:last-of-type {
       margin-bottom: 35px;

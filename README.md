@@ -1,6 +1,6 @@
 # Creative Bakery
 
-- Here [link](https://alex-glotov67.github.io/creative_bakery/) to the Demo.
+- [Here](https://alex-glotov67.github.io/creative_bakery/)you can see the Demo.
 - [Here](https://www.figma.com/file/6tzL4b5VoTZ3dDTU7iwbHV/Bakerlab-(Copy)?node-id=0%3A1) you can find design of landing page.
 
 ## Description
@@ -19,4 +19,3 @@
 * Fork and clone this repository
 * Run `npm install` in your terminal
 * Run `npm start`
-* ... (maybe, you would have to add something more for this instruction)
